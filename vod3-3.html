@@ -11,12 +11,25 @@ input {
 }
       </style>
    </head>
-<iframe width="1500" height="700" src="https://short.ink/r_8ffo64Q" frameborder="0" scrolling="0" allowfullscreen></iframe> 
+<iframe id="my-iframe" width="1500" height="700" src="https://short.ink/r_8ffo64Q" frameborder="0" scrolling="0" allowfullscreen></iframe> 
 
 <a href="https://xqcvod.github.io/xqcspongevod/main.html">
   <button class="back-button">Back</button>
 </a>
 
+<select style="background-color: blue; height: 50px;" id="iframe-select" onchange="changeIframe()">
+  <option style="font-weight: 900;" value="https://short.ink/r_8ffo64Q">Abyss</option>
+  <option style="font-weight: 900;" value="https://drive.google.com/file/d/1gkNrRDiOG6Af398pd5NhpTueOD5i4Dzm/preview">Google Drive</option>
+</select>
+
+<script>
+function changeIframe() {
+  const iframeSelect = document.getElementById('iframe-select');
+  const myIframe = document.getElementById('my-iframe');
+  const selectedValue = iframeSelect.value;
+  myIframe.src = selectedValue;
+}
+</script>
 
 
 
@@ -42,4 +55,3 @@ input {
 </style>
 
 </html>
-

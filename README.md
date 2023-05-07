@@ -1,3 +1,3 @@
 # xQc Spongebob Archive
-an archive of spongebob episodes xqc watched
-https://xqcvod.github.io/xqcspongevod/main.html
+an archive of spongebob episodes xqc watched (moved to google sites)
+https://sites.google.com/view/xqcspongebob/home

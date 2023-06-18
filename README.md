@@ -2,18 +2,6 @@
 <html>
 <body>
   <head>
-        .font {
-  font-family: Arial, Helvetica, sans-serif;
-          font-weight: 900;
-          text-align: center;
-} 
-        body {
-        background-color:black;>
-         }
-    h2 {
-  color: blue;
-}  
-    </style>
    </head>
 <h2 class="font">XQC SPONGEBOB VODS</h2>
 

@@ -29,7 +29,7 @@
 <a href="https://xqcvod.github.io/vod5">VOD 5</a>
 <a href="https://xqcvod.github.io/vod6-1">VOD 6-1</a>
 <a href="https://xqcvod.github.io/vod6-2">VOD 6-2</a>
-<a href="https://xqcvod.github.io/vod7">VOD 7/a>
+<a href="https://xqcvod.github.io/vod7">VOD 7</a>
 <a href="https://xqcvod.github.io/vod8-1">VOD 8-1</a>
 <a href="https://xqcvod.github.io/vod8-2">VOD 8-2</a>
 <a href="https://xqcvod.github.io/vod8-3">VOD 8-3</a>
@@ -43,7 +43,7 @@
 <a href="https://xqcvod.github.io/vod14-2">VOD 14-2</a>
 <a href="https://xqcvod.github.io/vod15">VOD 15</a>
 <a href="https://xqcvod.github.io/vod16">VOD 16</a>
-<a href="https://xqcvod.github.io/vod17">VOD 17/a>
+<a href="https://xqcvod.github.io/vod17">VOD 17</a>
 <a href="https://xqcvod.github.io/vod18">VOD 18</a>
 <a href="https://xqcvod.github.io/vod19">VOD 19</a>
 <a href="https://xqcvod.github.io/vod20-1">VOD 20-1</a>

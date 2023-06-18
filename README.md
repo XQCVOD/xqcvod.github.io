@@ -1,6 +1,7 @@
 <html>
 <body>
   <head>
+    <link rel="icon" type="image/x-icon" href="https://xqcvod.github.io/favicon.ico">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6811464886186730"
      crossorigin="anonymous"></script>
     <title>XQC VODS</title>

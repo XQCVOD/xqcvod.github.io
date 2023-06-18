@@ -54,5 +54,3 @@
 <a href="https://xqcvod.github.io/vod23">VOD 23</a>
 <a href="https://xqcvod.github.io/vod24">VOD 24</a>
 <a href="https://xqcvod.github.io/vod25">VOD 25</a>
-</body>
-</html>
